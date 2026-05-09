@@ -49,3 +49,5 @@ output/*
 # OS
 .DS_Store
 Thumbs.db
+
+LLM_Agent_Assignment_v2.pdf
